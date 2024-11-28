@@ -47,7 +47,7 @@ Siempre estoy buscando nuevos retos y aprendiendo algo nuevo. Si estás interesa
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
