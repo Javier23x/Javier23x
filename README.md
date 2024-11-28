@@ -67,9 +67,11 @@ Siempre estoy buscando nuevos retos y aprendiendo algo nuevo. Si estás interesa
   <a href="mailto:jpinoh01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jpinoh01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
   <a href="https://github.com/Javier23x" target="blank"><img align="center" src="https://img.shields.io/badge/Javier23x-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </span>
-
-###
+<hr>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <p>¡Gracias por tu visita!</p>
+  <img src="https://i.imgur.com/obojRZ5.gif">
 </div>
+
+
