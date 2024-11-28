@@ -51,7 +51,25 @@ Siempre estoy buscando nuevos retos y aprendiendo algo nuevo. Si estás interesa
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </span>
 
+<h2 align="center">
+  <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25">
+  <b>Contactos 📫</b>
+</h2>
+
+<span align="center">
+  <a href="https://www.linkedin.com/in/javier-pino-herrera-867843335/" target="blank"><img align="center" src="https://img.shields.io/badge/Javier Pino Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+  <a href="mailto:jpinoh01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jpinoh01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+  <a href="https://github.com/Javier23x" target="blank"><img align="center" src="https://img.shields.io/badge/Javier23x-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</span>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
