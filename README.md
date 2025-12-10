@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img align="right" width="200px" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Linux Tux" />
+  <img width="200px" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Linux Tux" />
 </div>
 
 ### 🚀 Sobre mí
