@@ -17,6 +17,7 @@
     💼 <b>Experiencia previa:</b> Soluciones web para <b>Aquaflow.cl</b> y <b>Vetcodex.cl.</b>
     <br><br>
     Hablo varios idiomas (Español, Inglés, Alemán, Portugués) y disfruto aprendiendo nuevos lenguajes de programación y tecnologías.
+    <br>
     Siempre busco nuevos retos. Si te interesa colaborar o saber más sobre mi trabajo, ¡contáctame! 🚀
   </p>
 </div>
