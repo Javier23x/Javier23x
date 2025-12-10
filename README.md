@@ -27,7 +27,7 @@
 
 <br>
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Stack Tecnológico
 
 #### 🎨 Frontend & UI
 <p>
