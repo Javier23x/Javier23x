@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Javier Pino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Full Stack Developer | Student @ UCSC</h3>
+<h3 align="center">Web Developer | Student @ UCSC | Transitioning to Cloud & DevOps 🚀</h3>
 
 <br>
 
